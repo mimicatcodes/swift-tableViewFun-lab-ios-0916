@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9FE6DF0FB7071235921808A057ABEF3268F15602" : 9223372036854775807,
+    "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A66AC824-510C-4DAD-A8FB-A00F1F985932",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9FE6DF0FB7071235921808A057ABEF3268F15602" : "",
+    "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686" : "swift-tableViewFun-lab-ios-0916\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cats",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cats\/Cats.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mimicatcodes\/swift-tableViewFun-lab-ios-0916.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mimicatcodes\/swift-tableViewNav-readme-ios-0916.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FE6DF0FB7071235921808A057ABEF3268F15602"
+    }
+  ]
+}
